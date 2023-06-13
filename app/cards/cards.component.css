@@ -1,0 +1,17 @@
+.cards {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px;
+    justify-content: center;
+}
+.card__header {
+    height: 230px !important;
+}
+.card {
+    width: 300px;
+}
+.card__img {
+    width: 200px;
+}
